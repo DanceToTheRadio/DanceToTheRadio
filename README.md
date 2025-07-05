@@ -1,34 +1,57 @@
 <h1 align="center">Hi there 👋🏻, I'm Cova</h1>
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRodXBlcHY1d2Q1NnBua21yZDhqdzh2M2dieTFlajMyYjFqNzNxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YYAiaEW9mAEbXEjCaD/giphy.gif" width="300" alt="animation.gif"></p>
-<!--
-<p align="center"><img src="https://media1.tenor.com/m/0-MAWe894jEAAAAC/rgb-divider.gif" width="800" height="5"></p>
-# 💫 About Me:
-![](https://komarev.com/ghpvc/?username=DanceToTheRadio&color=447ff7&label=Visitor+count)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
--->
-<!--
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
--->
-<!-- # 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> -->
+<div align="center"><img src="me.gif" width="300" alt="animation.gif"><br>
+<a href="https://www.linkedin.com/in/covadonga-viejo-jimenez/">
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)
+</a>
+</div>
 
+<details>
+    <summary>Español 🇪🇸</summary>
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdityaKumar28&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
+## 🌟 Sobre mí:
+Soy estudiante de Ingeniería Informática con mención en Ciberseguridad.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
+Me apasiona la administración de sistemas, redes, análisis de vulnerabilidades y la gestión de incidentes. También me interesa el desarrollo backend, siempre aplicando buenas prácticas de seguridad.
 
-<!--
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
--->
+## 👩🏻‍💻 Habilidades:
+<div align="center">
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white&style=for-the-badge)  ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff&style=for-the-badge) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=for-the-badge) ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white&style=for-the-badge)
+
+</div>
+
+## 📊 Estadísticas:
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=DanceToTheRadio&style=for-the-badge&label=Contador+de+visitas&color=d79921"><br>
+    <img src="https://github-readme-stats-gules-zeta-dmf6gu55w3.vercel.app/api?username=DanceToTheRadio&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&hide=issues,contribs&hide_rank=true&show_icons=true&locale=es"><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanceToTheRadio&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&hide_border=false&locale=es"><br>
+    <img src="https://github-readme-stats-gules-zeta-dmf6gu55w3.vercel.app/api/top-langs/?username=DanceToTheRadio&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=es">
+    <br>
+</div>
+</details>
+
+<details open>
+    <summary>English 🇬🇧</summary>
+
+## 🌟 About me:
+I'm a Computer Engineering student with a specialization in Cybersecurity.
+
+I'm passionate about system administration, networking, vulnerability assessment, and incident response. I also enjoy backend development, with a focus on secure practices.
+
+## 👩🏻‍💻 Skills:
+<div align="center">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white&style=for-the-badge)  ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff&style=for-the-badge) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=for-the-badge) ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white&style=for-the-badge)
+
+</div>
+
+## 📊 Stats:
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=DanceToTheRadio&style=for-the-badge&label=Visitor+count&color=d79921"><br>
+    <img src="https://github-readme-stats-gules-zeta-dmf6gu55w3.vercel.app/api?username=DanceToTheRadio&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&hide=issues,contribs&hide_rank=true&show_icons=true"><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanceToTheRadio&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&hide_border=false"><br>
+    <img src="https://github-readme-stats-gules-zeta-dmf6gu55w3.vercel.app/api/top-langs/?username=DanceToTheRadio&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <br>
+</div>
+</details>
