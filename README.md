@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋🏻, I'm Cova</h1>
 <div align="center"><img src="me.gif" width="300" alt="animation.gif"><br>
 <a href="https://www.linkedin.com/in/covadonga-viejo-jimenez/">
-
-![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)
-</a>
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge">
 </div>
 
 <details>
